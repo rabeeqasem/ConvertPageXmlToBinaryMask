@@ -1,0 +1,5 @@
+bs4  # BeautifulSoup
+numpy
+opencv-python-headless  # OpenCV
+Pillow
+tqdm
